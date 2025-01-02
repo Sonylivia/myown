@@ -16,7 +16,7 @@ loop = asyncio.get_event_loop()
 
 # Bot Configuration: Set with Authority
 TOKEN = '6822590463:AAFpHLyjWFU06_2i8tpGyGB3f77Oe0XXdHQ'
-ADMIN_USER_ID = USER ID YOUR
+ADMIN_USER_ID = 1119536718
 MONGO_URI = 'mongodb+srv://sonudata:root@sonudata.ta3u2.mongodb.net/?retryWrites=true&w=majority&appName=SonuData'
 USERNAME = "@SonuGamingOp"  # Immutable username for maximum security
 
